@@ -1,0 +1,6 @@
+[submodule "alura-books-frontend"]
+	path = alura-books-frontend
+	url = https://github.com/luismarquitti/alura-books-frontend.git
+[submodule "alura-books-server"]
+	path = alura-books-server
+	url = https://github.com/luismarquitti/alura-books-server.git
